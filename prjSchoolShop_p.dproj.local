@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/09 11:41:07.000.926,=Z:\My Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/04/09 11:41:20.000.548,=Z:\My Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/04/09 11:44:16.000.114,Z:\2024\Grade 12 IT\Queries\dmSchoolShop_u.dfm=Z:\My Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2024/04/09 11:44:16.000.114,Z:\2024\Grade 12 IT\Queries\dmSchoolShop_u.pas=Z:\My Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2024/04/09 11:44:35.000.794,Z:\2024\Grade 12 IT\Queries\frmSchoolShop_u.pas=Z:\My Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2024/04/09 11:44:35.000.794,Z:\2024\Grade 12 IT\Queries\frmSchoolShop_u.dfm=Z:\My Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2024/04/09 11:44:52.000.216,Z:\2024\Grade 12 IT\Queries\prjSchoolShop_p.dproj=Z:\My Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
